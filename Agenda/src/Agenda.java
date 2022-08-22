@@ -7,8 +7,6 @@ public class Agenda {
 
         System.out.println("Adicione um contato");
 
-
-
         char condition = '1';
         while (condition != '4') {
             if(condition == '1') {

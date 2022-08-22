@@ -1,9 +1,9 @@
 public class Contatos {
 
-  String nome;
-  char sex;
-  String numero;
-  String email;
+  private String nome;
+  private char sex;
+  private String numero;
+  private String email;
 
   public void setContato(String nome, char sex, String numero, String email) {
     this.nome = nome;

@@ -46,7 +46,7 @@ public class Temperaturas {
         System.out.println("Igual a "+(celsius + 273.15)+" Kelvin");
         break;
       case 3:
-        System.out.println("Igual a "+(celsius * (4/5))+" Reáumur");
+        System.out.println("Igual a "+(celsius * 0.8)+" Reáumur");
         break;
       case 4:
         System.out.println("Igual a "+((celsius + 273.15)*(9/5))+" Rankine");
